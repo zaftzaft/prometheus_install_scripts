@@ -1,4 +1,4 @@
-v=0.17.0
+v=0.18.1
 
 version=v$v
 file=node_exporter-${v}.linux-amd64
